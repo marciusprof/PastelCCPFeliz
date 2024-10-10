@@ -37,7 +37,6 @@ img {
 }
 .categoria-pasteis {
     display: grid;
-    overflow: auto;
     gap: 10px;
 }
 
